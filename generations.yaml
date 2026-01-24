@@ -1,5 +1,18 @@
+references:
+  - "https://en.wikipedia.org/wiki/Chevrolet_Celta"
+
 generations:
   - name: "First Generation"
     start_year: 2000
+    end_year: 2006
+    description: "The Chevrolet Celta was a subcompact car developed specifically for the South American market, particularly Brazil. Built on GM's 4200 platform, a simplified evolution of the Opel Corsa B architecture, it was designed to be an affordable, entry-level vehicle with low production and maintenance costs. Released in 2000 as a three-door hatchback with a 1.0L gasoline engine producing 60 PS. In 2002, a five-door version was introduced, and the 1.0L engine was upgraded to produce 70 PS with VHC (Very High Compression) technology. A 1.4L gasoline engine producing 85 PS was added in 2003. In 2005, the 1.0L was converted into a gasoline-ethanol flexible fuel engine. The interior was basic and functional, focusing on durability and affordability rather than luxury."
+
+  - name: "First Generation (2006 Facelift)"
+    start_year: 2006
+    end_year: 2011
+    description: "In 2006, the Celta underwent a significant facelift that provided a more modern look and enhanced build quality. The new front fascia was redesigned to align more closely with new Chevrolet models, particularly the Brazilian-made Chevrolet Vectra based on the Opel Astra H. The platform remained the same GM4200 architecture. Engine options continued to include the 1.0L and 1.4L variants, with flexible fuel capability available. Flex-fuel versions provided 70 PS on gasoline and 78 PS on ethanol from the 1.0L VHC-E engine."
+
+  - name: "First Generation (2011 Facelift)"
+    start_year: 2011
     end_year: 2015
-    description: "The Chevrolet Celta was a subcompact car developed specifically for the South American market, particularly Brazil. Built on GM's 4200 platform, a simplified evolution of the Opel Corsa B architecture, it was designed to be an affordable, entry-level vehicle with low production and maintenance costs. Initially available only as a three-door hatchback, a five-door variant was added in 2002. Throughout its production, the Celta was powered by 1.0L and 1.4L gasoline engines, with flex-fuel capability (able to run on ethanol) added in 2005. The interior was basic and functional, focusing on durability rather than luxury. A significant facelift in 2006 updated the front fascia to align with Chevrolet's global design language, while additional minor updates throughout its life added features like power steering, air conditioning, and basic safety equipment. Despite its simplicity, the Celta became one of Brazil's best-selling cars due to its affordability, reliability, and low operating costs. Production ended in 2015 when it was effectively replaced by the Chevrolet Onix in GM's Brazilian lineup. The Celta represented an important strategic model for GM in developing markets, demonstrating how global platforms could be adapted and simplified for specific regional requirements and price points."
+    description: "A second and final facelift was applied to the Celta in 2011. This represented the final update to the platform before production ended in 2015 when it was replaced by the Chevrolet Onix. By early 2012, approximately 1.5 million Celtas had been produced at the Gravataí plant in Brazil, demonstrating the model's commercial success as one of Brazil's best-selling cars due to its affordability, reliability, and low operating costs."
